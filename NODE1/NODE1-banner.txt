@@ -1,0 +1,122 @@
+My mission statement
+
+To enhance and contribute to the security, availability,
+accessibility and contingency of the bitcoin networks
+infrastructure.
+
+Security and availability by hosting, maintaining, guarding
+diverse and distributed bitcoin nodes and servers using secure
+hardware and software backed by physical security. Increase the
+accessibility and contingency of the bitcoin network by interfacing
+with multiple networks including the internet, darknets, ham
+radio, sattelite. To overcome network failture or censorship for
+contingency of the bitcoin network from technological, natural,
+and political disasters.
+
+
+My services
++ Hosting, maintaining, securing Bitcoin and Electrum servers.
++ I can give you support for things relating to bitcoin. If you
+have any questions relating to bitcoin, electrum, or hosting a node
+you can email me. I will help where I can. I can also assist people
+businesses and organizations to accept bitcoin.
+
+I am making this my side job. Dedicating 6 hours of my time each
+week to improving or maintaining servers and services to benefit
+bitcoin users.
+
+
+|\  |   /~~\   |~~\   |~~   /|
+| \ |  |    |  |   |  |--    |
+|  \|   \__/   |__/   |__   _|_
+
+++++++++++++++++++++++++++++++++
+Bitcoin full node - core 0.18.0
+ElectrumX Server - 1.8.12
+++++++++++++++++++++++++++++++++
++ Anonymous admin and hosting for higher security.
++ Dedicated privately hosted server on a Tor only bitcoin full node. 
++ All transactions transmitted through Tor.
++ No addresses are logged. No information is shared. I do not comply
+  with warrants or subpoenas. I will defend my node if I have to.
+  I support digital and financial privacy and oppose the evil US government.
++ Frequent blockchain data backup to a external disk stored in EMP resistant
+shielding.
+
+       [Hidden Service]
+              ||
+   ___________||___________
+  | 4yi77lkjgy4bwtj3.onion |
+   ------------------------
+       TCP on port 50001
+       SSL on port 50002
+If you are using Tails tails.boum.org you will need to use port 50002 to connect.
+
+	   CONTACT INFORMATION
+node.admin@secmail.pro
+PGP Key 97F0 C3AE 985A 191D A055 6BCA A825 29E2 025B DE35
+PGP key secured by smartcard generated on a airgapped computer.
+I check email at least once a day. At some times it might be two days for reply.
+
+	   NEW DONATION ADDRESS
+bc1q0z587jhvrjs30l79937turd2ynlqv2uvlvhl8d
+Click 'help menu' > 'Donate to server.'
+Donations help fund upgrades, security, maintenance of bitcoin services and servers
+that benefit bitcoin users. If any donor wants their donations to go to something
+specific you can email me with your requests.
+Donations are not expected but are welcome.
+
+-------------------------------------------------------------------------------------
+
+NOTIFICATIONS AND WORK LOG
+
+Saturday 13 July 2019
+Updated donation address to bech32 native segwit address.
+Made another blockchain backup.
+Created software script to help people easily build electrum with trezor support
+with needed dependencies.
+https://www.github.com/lee-chiffre/install-trezor-electrum/
+
+Upcoming improvements
++ My current backup harddrive is almost full. I am going to purchase a new backup
+drive this week.
++ I am getting a physical open source firewall and router to help secure the network
+the node is using for an improvement to cyber security and network reliability.
+For physical security I am getting an inexpensive open source security camera for more
+security of the node from physical attacks.
+
+
+
+ROADMAP
+July 2019
++ Setting up the new server. New server uses secure hardware with an ARM
+architecture CPU. And features RAID 1 setup and UPS power backup. I have two nodes
+with this setup. The first one is what is going to be the new server. The second one
+is used as a hardware backup in case the first one has hardware failure. If I can find
+a secondary physical location I will host both of them at the same time. The new node
+will also host bitcoin on the next gen Tor hidden services address.
+
+2019-2020
+
++ Get another node that uses a different software than core for diversity of node
+software. Diversity is good for security. This node running alternative bitcoin node
+software would act as a backup if there is ever a discovered vulnerability and mass
+attack on core servers.
+
++ For contingency. Train and equip someone I know and trust to be able to continue
+operations if something happens to me.
+
++ Lightning Network service.
+
++ Get 2nd server setup at different location for continuity
+in case one server goes down.
+
+After the above goals are reached. Probably 2020
++ Create a guide on how to assemble and install a secure bitcoin server.
+Help other people out who choose to host their own nodes but want assistance.
+
++ Work on I2P integration in Bitcoin.
+
++ Ham radio and satelite integration for availability and accessibility if the 
+internet or grid goes down. Promote integration of these contingent connections with 
+other node operators for increasing resiliency of Bitcoin.
