@@ -15,7 +15,8 @@ and political disasters.
 
 
 My services
-+ Hosting, maintaining, securing Bitcoin and Electrum servers.
++ Hosting, maintaining, securing Bitcoin and Electrum servers and
+services.
 + I can give you support for things relating to bitcoin. If you
 have any questions relating to bitcoin, electrum, or hosting a node
 you can email me. I will help where I can. I can also assist people
@@ -70,6 +71,17 @@ Donations are not expected but are welcome.
 
 NOTIFICATIONS AND WORK LOG
 
+I have started training a trusted associate on bitcoin and linux administration to
+help run nodes and with other bitcoin related services.
+
+Monday Aug 5 2019
+Taking another blockchain backup. Upload trezor electrum build script to the Trezor
+git website.
+
+Thursday 25 July 2019
+I got a large harddrive for use with the weekly blockchain backups. The previous
+harddrive was running low on space.
+
 Saturday 13 July 2019
 Updated donation address to bech32 native segwit address.
 Made another blockchain backup.
@@ -77,18 +89,11 @@ Created software script to help people easily build electrum with trezor support
 with needed dependencies.
 https://www.github.com/lee-chiffre/install-trezor-electrum/
 
-Upcoming improvements
-+ My current backup harddrive is almost full. I am going to purchase a new backup
-drive this week.
+Current improvements I am working on
 + I am getting a physical open source firewall and router to help secure the network
 the node is using for an improvement to cyber security and network reliability.
-For physical security I am getting an inexpensive open source security camera for more
-security of the node from physical attacks.
-
-
-
-ROADMAP
-July 2019
++ For physical security I am getting an inexpensive open source security camera for
+more security of the node from physical attacks.
 + Setting up the new server. New server uses secure hardware with an ARM
 architecture CPU. And features RAID 1 setup and UPS power backup. I have two nodes
 with this setup. The first one is what is going to be the new server. The second one
@@ -96,8 +101,12 @@ is used as a hardware backup in case the first one has hardware failure. If I ca
 a secondary physical location I will host both of them at the same time. The new node
 will also host bitcoin on the next gen Tor hidden services address.
 
-2019-2020
+ROADMAP
+When current improvements are completed
+2019
++ Lightning Network service
 
+2019-2020
 + Get another node that uses a different software than core for diversity of node
 software. Diversity is good for security. This node running alternative bitcoin node
 software would act as a backup if there is ever a discovered vulnerability and mass
@@ -105,8 +114,6 @@ attack on core servers.
 
 + For contingency. Train and equip someone I know and trust to be able to continue
 operations if something happens to me.
-
-+ Lightning Network service.
 
 + Get 2nd server setup at different location for continuity
 in case one server goes down.
