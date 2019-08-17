@@ -1,3 +1,4 @@
+>> 
 My mission statement
 
 To enhance and contribute to the security, availability,
@@ -71,12 +72,12 @@ Donations are not expected but are welcome.
 
 NOTIFICATIONS AND WORK LOG
 
-I have started training a trusted associate on bitcoin and linux administration to
-help run nodes and with other bitcoin related services.
-
-Monday Aug 5 2019
-Taking another blockchain backup. Upload trezor electrum build script to the Trezor
-git website.
+Saturday 17 August 2019
+I am building the OS for the new server hardware and testing the trezor
+electrum build script on debian buster. And started setting up my technical operations
+center. I have started training a trusted associate on bitcoin and linux administration
+to help run nodes and with other bitcoin related services. Photo of the upgraded node
+will be posted when complete.
 
 Thursday 25 July 2019
 I got a large harddrive for use with the weekly blockchain backups. The previous
@@ -127,3 +128,5 @@ Help other people out who choose to host their own nodes but want assistance.
 + Ham radio and satelite integration for availability and accessibility if the 
 internet or grid goes down. Promote integration of these contingent connections with 
 other node operators for increasing resiliency of Bitcoin.
+
+>> 
