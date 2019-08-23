@@ -63,25 +63,21 @@ I check email at least once a day. At some times it might be two days for reply.
 	   NEW DONATION ADDRESS
 bc1q0z587jhvrjs30l79937turd2ynlqv2uvlvhl8d
 Click 'help menu' > 'Donate to server.'
-Donations help fund upgrades, security, maintenance of bitcoin services and servers
-that benefit bitcoin users. If any donor wants their donations to go to something
-specific you can email me with your requests.
+Donations help fund upgrades of the bitcoin servers. So far donations have been used
+to obtain the hardware for the two new nodes and the disks for setting up RAID for
+each one and for blockchain backups. If any donor wants their donations to go to
+something specific you can email me with your requests.
 Donations are not expected but are welcome.
 
 -------------------------------------------------------------------------------------
 
 NOTIFICATIONS AND WORK LOG
 
-Saturday 17 August 2019
+Thursday 22 August 2019
 I am building the OS for the new server hardware and testing the trezor
-electrum build script on debian buster. And started setting up my technical operations
-center. I have started training a trusted associate on bitcoin and linux administration
-to help run nodes and with other bitcoin related services. Photo of the upgraded node
-will be posted when complete.
-
-Thursday 25 July 2019
-I got a large harddrive for use with the weekly blockchain backups. The previous
-harddrive was running low on space.
+electrum build script on debian buster. I now have the hardware and disks for two
+servers which will be setup with RAID. The plan is to host the two nodes in two
+different locations. Photo of the upgraded nodes will be posted when complete.
 
 Saturday 13 July 2019
 Updated donation address to bech32 native segwit address.
@@ -93,8 +89,6 @@ https://www.github.com/lee-chiffre/install-trezor-electrum/
 Current improvements I am working on
 + I am getting a physical open source firewall and router to help secure the network
 the node is using for an improvement to cyber security and network reliability.
-+ For physical security I am getting an inexpensive open source security camera for
-more security of the node from physical attacks.
 + Setting up the new server. New server uses secure hardware with an ARM
 architecture CPU. And features RAID 1 setup and UPS power backup. I have two nodes
 with this setup. The first one is what is going to be the new server. The second one
