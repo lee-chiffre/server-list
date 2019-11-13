@@ -1,6 +1,4 @@
 >> 
-
->> 
 My mission statement
 To enhance and contribute to the security, availability,
 accessibility and contingency of the bitcoin networks
