@@ -1,6 +1,7 @@
 >> 
-My mission statement
 
+>> 
+My mission statement
 To enhance and contribute to the security, availability,
 accessibility and contingency of the bitcoin networks
 infrastructure.
@@ -14,18 +15,13 @@ radio, sattelite. To overcome network failture or censorship for
 contingency of the bitcoin network from technological, natural,
 and political disasters.
 
-
 My services
-+ Hosting, maintaining, securing Bitcoin and Electrum servers and
-services.
++ Hosting, maintaining, securing Bitcoin servers and services.
 + I can give you support for things relating to bitcoin. If you
 have any questions relating to bitcoin, electrum, or hosting a node
 you can email me. I will help where I can. I can also assist people
 businesses and organizations to accept bitcoin.
 
-I am making this my side job. Dedicating 6 hours of my time each
-week to improving or maintaining servers and services to benefit
-bitcoin users.
 
 
 |\  |   /~~\   |~~\   |~~   /|
@@ -41,7 +37,7 @@ ElectrumX Server - 1.8.12
 + All transactions transmitted through Tor.
 + No addresses are logged. No information is shared. I do not comply
   with warrants or subpoenas. I will defend my node if I have to.
-  I support digital and financial privacy and oppose the evil US government.
+  I support digital and financial privacy and oppose evil governments.
 + Frequent blockchain data backup to a external disk stored in EMP resistant
 shielding.
 
@@ -55,10 +51,13 @@ shielding.
 If you are using Tails tails.boum.org you will need to use port 50002 to connect.
 
 	   CONTACT INFORMATION
-node.admin@secmail.pro
+lee.chiffre@secmail.pro
+LeeChiffre@airmail.cc
+The email node.admin@secmail.pro will be retired soon
+I will update my PGP key soon with my new email address.
 PGP Key 97F0 C3AE 985A 191D A055 6BCA A825 29E2 025B DE35
 PGP key secured by smartcard generated on a airgapped computer.
-I check email at least once a day. At some times it might be two days for reply.
+Github repo https://www.github.com/lee-chiffre
 
 	   NEW DONATION ADDRESS
 bc1q0z587jhvrjs30l79937turd2ynlqv2uvlvhl8d
@@ -72,50 +71,49 @@ Donations are not expected but are welcome.
 -------------------------------------------------------------------------------------
 
 NOTIFICATIONS AND WORK LOG
+Ready your bitcoin battle stations nodes and wallets for Jan 3 2020 annual #ProofOfKeys
+day.
 
-Thursday 22 August 2019
-I am building the OS for the new server hardware and testing the trezor
-electrum build script on debian buster. I now have the hardware and disks for two
-servers which will be setup with RAID. The plan is to host the two nodes in two
-different locations. Photo of the upgraded nodes will be posted when complete.
+SCHEDULED DOWNTIME
+This server will be offline for between 30 minutes to 2 hours sometime Nov 14 or 15
+for upgrades.
 
-Saturday 13 July 2019
-Updated donation address to bech32 native segwit address.
-Made another blockchain backup.
-Created software script to help people easily build electrum with trezor support
-with needed dependencies.
-https://www.github.com/lee-chiffre/install-trezor-electrum/
+November 13 2019
+I regained access back to github. My secmail email is working again. I am using the
+airmail.cc email address as a secondary email and as a backup address. I can be reached
+at any one of these two email addresses.
 
-Current improvements I am working on
-+ I am getting a physical open source firewall and router to help secure the network
-the node is using for an improvement to cyber security and network reliability.
-+ Setting up the new server. New server uses secure hardware with an ARM
-architecture CPU. And features RAID 1 setup and UPS power backup. I have two nodes
-with this setup. The first one is what is going to be the new server. The second one
-is used as a hardware backup in case the first one has hardware failure. If I can find
-a secondary physical location I will host both of them at the same time. The new node
-will also host bitcoin on the next gen Tor hidden services address.
+November 06 2019
+I have been making progress on the new node and locational security. I finished
+compiling the OS for the new node and it is setup and running with the new OS.
+I am now working on building Tor and Bitcoin software from source then blockchain
+sync from scratch. The new node uses secure hardware with an ARM architecture CPU and
+uses a RAID 1 setup with UPS power backup. I have the hardware for two nodes with this
+setup. I will post photos when completed. Both nodes will use a different bitcoin
+software for more software diversity. Software diversity of node software is essential
+for security of the bitocin network. I am working on locational securilty to help
+protect the nodes from theft or tampering. And improving the security of the network
+hardware the nodes sit behind. I plan to publish a guide on how I setup my node so
+others can do the same if they choose to do so.
+
+Deadline for the bitcoin operations center setup is before Jan 3 2020
 
 ROADMAP
 When current improvements are completed
 2019
-+ Lightning Network service
++Finish setup of both new nodes. Publish complete node setup guide to help others
+create their own node.
 
-2019-2020
-+ Get another node that uses a different software than core for diversity of node
-software. Diversity is good for security. This node running alternative bitcoin node
-software would act as a backup if there is ever a discovered vulnerability and mass
-attack on core servers.
+2020 ideas
++Lightning Network service
+
++ MONERO NODE!!
 
 + For contingency. Train and equip someone I know and trust to be able to continue
 operations if something happens to me.
 
-+ Get 2nd server setup at different location for continuity
-in case one server goes down.
-
-After the above goals are reached. Probably 2020
-+ Create a guide on how to assemble and install a secure bitcoin server.
-Help other people out who choose to host their own nodes but want assistance.
++ Get 2nd server setup at different location for continuity in case one server goes
+down.
 
 + Work on I2P integration in Bitcoin.
 
