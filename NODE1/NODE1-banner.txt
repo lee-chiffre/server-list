@@ -86,7 +86,8 @@ address. The OS and as much software as possible is compiled from source. Using 
 instead of Node1 is recommended.
 Physical security:
 It is in a fairly safe location that is also anonymously hosted due to being Tor only.
-I have security cameras that allow me to be alerted on intrusion of the area.
+I have security cameras that allow me to be alerted on intrusion of the area. I am
+also using network hardware running open source firmware that the nodes sit behind.
 Other:
 It is connected to a UPS battery backup to help protect from data loss or corruption.
 In the event of a short term power outage it would keep it powered until restoration
