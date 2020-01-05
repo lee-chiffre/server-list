@@ -2,3 +2,9 @@ Server name- NODE1
 Description- Tor only Bitcoin full node and Electrum server.
 Address- Bitcoin .onion address unlisted
 	 Electrum .onion address 4yi77lkjgy4bwtj3.onion TCP port 50001 TLS port 50002
+
+Server name- Node2.0
+Description - Improved Tor only Bitcoin full node on secure hardware.
+Address- Bitcoin .onion address zztaegcitdl7bar4.onion
+	      V3 .onion address	pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service address on bitcoin node is experimental.)
+Electrum srevice is in progress and will be on the same addresses when it is ready.
