@@ -77,8 +77,8 @@ CPU:
 The new server uses an ARM cpu believed to not be vulnerable to meltdown spectre type
 issues. And with it not being intel or AMD there are no known backdoors in hardware.
 Storage:
-The new server is using a high capacity RAID 1 setup for storing the blockchain and
-other critical data.
+The new server is using a fan cooled high capacity RAID 1 setup for storing the
+blockchain and other critical data.
 Software securtity:
 Like this one, the new node is reachable only by a Tor hidden service address and all
 outbound connections are through Tor only. It has a hsv2 and hsv3 hidden service
