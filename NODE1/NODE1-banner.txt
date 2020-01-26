@@ -1,3 +1,30 @@
+>> 
+My mission statement
+To enhance and contribute to the security, availability,
+accessibility and contingency of the bitcoin networks
+infrastructure.
+
+Security and availability by hosting, maintaining, guarding
+diverse and distributed bitcoin nodes and servers using secure
+hardware and software backed by physical security. Increase the
+accessibility and contingency of the bitcoin network by interfacing
+with multiple networks including the internet, darknets, ham
+radio, sattelite. To overcome network failture or censorship for
+contingency of the bitcoin network from technological, natural,
+and political disasters.
+
+My services
++ Hosting, maintaining, securing Bitcoin servers and services.
++ I can give you support for things relating to bitcoin. If you
+have any questions relating to bitcoin, electrum, or hosting a node
+you can email me. I will help where I can. I can also assist people
+businesses and organizations to accept bitcoin.
+
+My operations are a service to the public to help people out and contribute
+to crypto currency networks. Cost and time of operations and administration
+is paid for myself with some help from donations. I am making this my side
+job.
+
 
 |\  |   /~~\   |~~\   |~~   /|
 | \ |  |    |  |   |  |--    |
@@ -38,32 +65,27 @@ Github repo https://www.github.com/lee-chiffre
 bc1q0z587jhvrjs30l79937turd2ynlqv2uvlvhl8d
 Click 'help menu' > 'Donate to server.'
 Donations help fund security and upgrades of bitcoin servers and its operations.
-So far donations have helped to fund the hardware for Node2.0. A security camera. A
-dedicated dev board for compiling bitcoin related software. And most hardware for a
-second node of the same setup. I need an estimate of $150 to finish the second node I
-plan to operate at the same time as Node2.0 which would be a backup node in a different
-location. This is what I plan to use donated funds for. New donations after that will
-go for a low cost laptop for purposes of node administration by an associate of mine.
-I plan on getting a trusted person to help with administration and hosting and
-services. Having a 2nd person helping out would increase contingency of operations
-and speed of improvements. If any  donor wants their donations to go to something
-specific you can email me with your requests. Donations are not expected but are
-welcome.
+So far donations have helped to fund the hardware for Node2.0. Backup drives for it.
+A security camera. A dedicated dev board for compiling bitcoin related software. And
+most hardware for a second node of the same setup. I need an estimate of $150 to
+finish the second node I plan to operate at the same time as Node2.0 which would be a
+backup node in a different location. This is what I plan to use donated funds for.
+New donations after that will go for a low cost laptop for purposes of node
+administration by an associate of mine. I plan on getting a trusted person to help
+with administration and hosting and services. Having a 2nd person helping out would
+increase contingency of operations and speed of improvements. If any  donor wants
+their donations to go to something specific you can email me with your requests.
+Donations are not expected but are welcome.
 
 -------------------------------------------------------------------------------------
 
 NOTIFICATIONS AND WORK LOG
 
-January 03 2020
-The harddrive array on Node2.0 was running too hot for comfort. I bought and rigged
-up cooling fans to the harddrives. The bitcoin server Node2.0 is back up and running.
-It is building the transaction index and catching up to the latest block.
-The transaction index is needed for Electrum server.
-
-December 29 2019
-I am in the progress of setting up the development and compiling environment on a
-dedicated computer. Then compiling and installing ElectrumX server, lightning network
-router, joinmarket on Node2.0
+January 18 2020
+Node2.0 transaction has been operational as a full node. I am focusing on installing
+ElectrumX server on Node2.0 from source code.  After Electrum service I will focusing
+on lightning network. After I install Electrumx on Node2.0 I will also finish my Node
+Operators guide to help others set up their own node if they wish to do so.
 
 December 22 2019
 THE NEW NODE IS SETUP and operational.
@@ -73,12 +95,17 @@ pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden servic
 address on bitcoin node is experimental. If you notice any connect issues please let
 me know.)
 
+Node2.0 Information
+After I find someone with a camera I plan to take photos of the Node as proof of
+operations.
 CPU:
 The new server uses an ARM cpu believed to not be vulnerable to meltdown spectre type
 issues. And with it not being intel or AMD there are no known backdoors in hardware.
 Storage:
-The new server is using a fan cooled high capacity RAID 1 setup for storing the
-blockchain and other critical data.
+The new server is using a high capacity RAID 1 setup for storing the blockchain and
+other critical data. I have spare hard drives in case one fails, and the blockchain is
+routine backed up to a backup drive that is then stored in an EMP resistant bag in
+a fireproof vault.
 Software securtity:
 Like this one, the new node is reachable only by a Tor hidden service address and all
 outbound connections are through Tor only. It has a hsv2 and hsv3 hidden service
@@ -86,12 +113,13 @@ address. The OS and as much software as possible is compiled from source. Using 
 instead of Node1 is recommended.
 Physical security:
 It is in a fairly safe location that is also anonymously hosted due to being Tor only.
-I have security cameras that allow me to be alerted on intrusion of the area. I am
-also using network hardware running open source firmware that the nodes sit behind.
+I have security cameras that allow me to be alerted on intrusion of the area.
+Donations funded one of these cameras to help protect the node from physical tampering.
 Other:
 It is connected to a UPS battery backup to help protect from data loss or corruption.
 In the event of a short term power outage it would keep it powered until restoration
-and protect equipment from dirty power.
+and protect equipment from dirty power. For cooling during high useage I have cooling
+fans attached to the drives.
 Note:
 The new node is now a fully functional full node. It does not have Electrum Server
 installed on it yet. But I am keeping Node 1 online for now while I work on getting
@@ -108,14 +136,15 @@ they need assistance.
 ------------------------------------------------------------------------------------
 
 ROADMAP
-2019 to early 2020
+Early 2020
 +Publish complete node setup guide to help others
 create their own node.
-2020
-+ Continue research and development in bitcoin privacy and security
 
 + Lightning Network service
 
++ Research and development in bitcoin privacy and security
+
+Mid to later 2020
 + For contingency. Train and equip someone I know and trust to be able to continue
 operations if something happens to me.
 
