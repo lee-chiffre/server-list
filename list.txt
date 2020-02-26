@@ -9,4 +9,4 @@ Description - Improved Tor only Bitcoin full node.
 Address- Bitcoin .onion address zztaegcitdl7bar4.onion
 	      V3 .onion address	pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service address on bitcoin node is experimental.)
 
-Node-03 coming soon. This will act as a backup to Node2.0 and will be in a different physical location.
+Node03 coming soon. This will act as a backup to Node2.0 and will be in a different physical location.
