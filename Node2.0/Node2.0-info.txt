@@ -1,43 +1,19 @@
-THE NEW NODE IS SETUP and operational.
-Node 2.0 Bitcoin full node address (Does not work with electrum yet. Read note below)
+Node2.0
+Node 2.0 Bitcoin full node address
 zztaegcitdl7bar4.onion
-pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service
-address on bitcoin node is experimental. If you notice any connect issues please let
-me know.)
+pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service address on bitcoin node is experimental. If you notice any connect issues please let me know.)
 
 CPU:
-The new server uses an ARM cpu believed to not be vulnerable to meltdown spectre type
-issues. And with it not being intel or AMD there are no known backdoors in hardware.
+The new server uses an ARM cpu believed to not be vulnerable to meltdown spectre type issues. And with it not being intel or AMD there are no known backdoors in hardware.
 
 Storage:
-The new server is using a fan cooled high capacity RAID 1 setup for storing the
-blockchain and other critical data.
+The new server is using a fan cooled high capacity RAID 1 setup for storing the blockchain and other critical data.
 
 Software securtity:
-Like this one, the new node is reachable only by a Tor hidden service address and all
-outbound connections are through Tor only. It has a hsv2 and hsv3 hidden service
-address. The OS and as much software as possible is compiled from source. Using Node2.0
-instead of Node1 is recommended.
+Node2.0 is reachable only by a Tor hidden service address and all outbound connections are through Tor only. It has a hsv2 and hsv3 hidden service address. The OS and as much software as possible is compiled from source. I keep the OS very minimalist and only install what is needed.
 
 Physical security:
-It is in a fairly safe location that is also anonymously hosted due to being Tor only.
-I have security cameras that allow me to be alerted on intrusion of the area. I am
-also using network hardware running open source firmware that the nodes sit behind.
+It is in a fairly safe location that also anonymously hosted due to being Tor only. I have security camera that allow me to be alerted on intrusion of the area. I am also using network hardware running open source firmware that the nodes sit behind. I am heavily armed (thankful for blackmarkets and 3D printers) to fend off any physical attack.
 
 Other:
-It is connected to a UPS battery backup to help protect from data loss or corruption.
-In the event of a short term power outage it would keep it powered until restoration
-and protect equipment from dirty power.
-
-Note:
-The new node is now a fully functional full node. It does not have Electrum Server
-installed on it yet. But I am keeping Node 1 online for now while I work on getting
-Electrum Server on Node2.0. If you want to use Node2.0 now you can use Wasabi Wallet
-pointed to Node2.0 as an alternative in the meantime. Or just continue using Electrum
-with Node1 while I get Electrum Server on Node2.0. Actually, I recommend Wasabi Wallet
-over Electrum for privacy reasons. There is nothing wrong with Electrum. Electrum is an
-excellent wallet. But if you do not trust the Electrum Server you are connecting to, it
-has the ability to know all your bitcoin addresses. I do not store logs on Electrum or
-spy on users. But security should not be reliant on trust. I plan on continuing to
-operate Electrum Server as a service and help people set up their own bitcoin server if
-they need assistance.
+It is connected to a UPS battery backup to help protect from data loss or corruption. In the event of a short term power outage it would keep it powered until restoration and protect equipment from dirty power.
