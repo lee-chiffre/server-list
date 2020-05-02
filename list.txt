@@ -4,9 +4,13 @@ Description- Tor only Bitcoin full node and Electrum server.
 Address- Bitcoin .onion address unlisted
 	 Electrum .onion address 4yi77lkjgy4bwtj3.onion TCP port 50001 TLS port 50002
 
-Server name- Node2.0
-Description - Improved Tor only Bitcoin full node.
+Node2.0
+Description - Improved Tor only Bitcoin full node. This will have electrumx service installed very soon.
 Address- Bitcoin .onion address zztaegcitdl7bar4.onion
 	      V3 .onion address	pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service address on bitcoin node is experimental.)
 
-Node03 coming soon. This will act as a backup to Node2.0 and will be in a different physical location.
+Node03
+Description- Coming soon. This will act as a backup to Node2.0 and will be in a different physical location.
+
+"Doomsday Node"
+Description- Coming soon. This is a dedicated offline laptop with a drive of a weekly full blockchain backup stored in a fireproof waterproof and EMP proof case. To continue bitcoin operations if there is a global disaster.
