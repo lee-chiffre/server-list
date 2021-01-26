@@ -6,8 +6,8 @@ Address- Bitcoin .onion address unlisted
 
 Node2.0
 Description - Improved Tor only Bitcoin full node. This will have electrumx service installed very soon.
-Address- Bitcoin .onion address zztaegcitdl7bar4.onion
-	      V3 .onion address	pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion (V3 hidden service address on bitcoin node is experimental.)
+Address- Bitcoin .onion address zztaegcitdl7bar4.onion [DISABLED. USE V3]
+	      V3 .onion address	pvigneuyddbxr2vhpvmukvo7rpleggo4xxhtmoh6jwlkerui44cxbnad.onion
 
 Node03
 Description- Coming soon. This will act as a backup to Node2.0 and will be in a different physical location.
